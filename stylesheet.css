@@ -69,4 +69,21 @@ input:focus{
   border: 1px solid #ddd;
 }
 
+.search button{
+  height: 100%;
+  width: 60px;
+  border: none;
+}
+
+.mic{
+  margin-top: 10px;
+}
+
+.material-icons{
+  color: rgb(100, 100, 100);
+  padding: 0 7px;
+  cursor: pointer;
+}
+
+
 
